@@ -9,7 +9,10 @@ body{
     margin: 0 auto;
 }
 
-
+h2{
+    font-size: 36px;
+    color: #FFA800;
+}
 
 h1{
     font-size: 46px;
