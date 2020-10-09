@@ -12,6 +12,11 @@ body{
     background: #967117;
 }
 
+h5{
+    color: tomato;
+    font-size: 45px;
+}
+
 .container{
     width: 1000px;
     padding-left: 20px;
@@ -19,7 +24,10 @@ body{
     margin: 0 auto;
 }
 
-
+h2{
+    font-size: 36px;
+    color: #FFA800;
+}
 
 h1{
     font-size: 46px;
