@@ -1,7 +1,11 @@
 *,
 ::before,
 ::after{
-    box-sizing: content-box;
+
+  
+
+    box-sizing: border-box;
+
 }
 
 body{
@@ -27,8 +31,4 @@ h3{
     color: #FFFF00;
 }
 
-.top-text{
-    font-size: 23px;
-    color:yellow;
-}
 
